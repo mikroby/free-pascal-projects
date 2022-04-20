@@ -5,4 +5,4 @@ saját FreePascal programjaim
 # Game of Life
 # Fox and Geese game
 
-each game should be unzipped in its folders respectively then run exe.
+each game should be unzipped in its folder respectively then run exe.
